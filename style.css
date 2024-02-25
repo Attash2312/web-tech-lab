@@ -1,6 +1,6 @@
 /* Apply a light blue background to the body */
 body {
-  background-color: #87CEEB;
+  background-color: #87ceeb;
   margin: 0;
   display: flex;
   justify-content: center;
@@ -10,7 +10,7 @@ body {
 
 /* Style the h1 heading */
 h1 {
-  color: #8B4513; /* Dark brown text color */
+  color: #8b4513; /* Dark brown text color */
   font-family: 'Arial', sans-serif; /* Change font family */
   text-align: center; /* Center align the text */
 }
